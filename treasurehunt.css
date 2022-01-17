@@ -1,0 +1,45 @@
+
+ /* name is treasure.css */
+/* target a tag in html by the name of the tag*/
+
+
+body {
+/* background-color: #00FFFF; */
+background-image: url(
+  https://www.esiweb.org/sites/default/files/reports/img/Pot%20of%20Gold.jpg
+  );
+background-position: center;
+background-color: red;
+color: red;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: red;
+  text-align: left;
+
+}
+
+
+table {
+  margin: 0 auto;
+  border: 2 px solid black;
+}
+
+td {
+    border: 2 px dashed black;
+    font-size: 50px;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+
+}
+
+.flex-center{
+  display: flex;
+  justify-content: center;
+}
